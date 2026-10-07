@@ -1,2 +1,2 @@
 # FS25_VehicleSelector
-Vehicle Overview for Farming Simulator 25
+Vehicle Selector for Farming Simulator 25
